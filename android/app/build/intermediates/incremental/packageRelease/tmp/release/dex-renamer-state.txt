@@ -1,0 +1,7 @@
+#Fri Dec 16 17:24:06 IST 2022
+base.1=E\:\\Ds_Scam_Protection_App\\quizApp\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.1=classes2.dex
+base.0=E\:\\Ds_Scam_Protection_App\\quizApp\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

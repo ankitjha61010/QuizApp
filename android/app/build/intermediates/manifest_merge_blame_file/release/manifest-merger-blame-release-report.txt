@@ -1,0 +1,96 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.quizapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+12-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:5:1-71
+12-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:5:18-69
+13    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+13-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:6:1-70
+13-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:6:18-68
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:7:1-76
+14-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:7:18-74
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:8:1-75
+15-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:8:18-73
+16
+17    <application
+17-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:10:5-30:19
+18        android:name="com.quizapp.MainApplication"
+18-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:11:7-38
+19        android:allowBackup="false"
+19-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:15:7-34
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.7.0] C:\Users\admin\.gradle\caches\transforms-3\63a3df243d2d102452600006144a86df\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+21        android:icon="@mipmap/ic_launcher"
+21-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:13:7-41
+22        android:label="@string/app_name"
+22-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:12:7-39
+23        android:requestLegacyExternalStorage="true"
+23-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:17:7-50
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:14:7-52
+25        android:theme="@style/AppTheme" >
+25-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:16:7-38
+26        <activity
+26-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:18:7-29:18
+27            android:name="com.quizapp.MainActivity"
+27-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:19:9-37
+28            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+28-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:21:9-118
+29            android:exported="true"
+29-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:24:9-32
+30            android:label="@string/app_name"
+30-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:20:9-41
+31            android:launchMode="singleTask"
+31-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:22:9-40
+32            android:windowSoftInputMode="adjustResize" >
+32-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:23:9-51
+33            <intent-filter>
+33-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:25:9-28:25
+34                <action android:name="android.intent.action.MAIN" />
+34-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:26:13-65
+34-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:26:21-62
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:27:13-73
+36-->E:\Ds_Scam_Protection_App\quizApp\android\app\src\main\AndroidManifest.xml:27:23-70
+37            </intent-filter>
+38        </activity>
+39
+40        <provider
+40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\b6fe4da57007a43d86a66ba4c66459bd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+41            android:name="androidx.startup.InitializationProvider"
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\b6fe4da57007a43d86a66ba4c66459bd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+42            android:authorities="com.quizapp.androidx-startup"
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\b6fe4da57007a43d86a66ba4c66459bd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+43            android:exported="false" >
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\b6fe4da57007a43d86a66ba4c66459bd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+44            <meta-data
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\b6fe4da57007a43d86a66ba4c66459bd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+45                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\b6fe4da57007a43d86a66ba4c66459bd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+46                android:value="androidx.startup" />
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\b6fe4da57007a43d86a66ba4c66459bd\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+47            <meta-data
+47-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\admin\.gradle\caches\transforms-3\bc74a39e1ea23fea00bfcf2682a93948\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+48                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+48-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\admin\.gradle\caches\transforms-3\bc74a39e1ea23fea00bfcf2682a93948\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+49                android:value="androidx.startup" />
+49-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\admin\.gradle\caches\transforms-3\bc74a39e1ea23fea00bfcf2682a93948\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+50        </provider>
+51    </application>
+52
+53</manifest>

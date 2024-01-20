@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quizApp.iml" filepath="$PROJECT_DIR$/.idea/modules/quizApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/quizApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/quizApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/quizApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/quizApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/quizApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/quizApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/203686701/quizApp.lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/203686701/quizApp.lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/203686701/quizApp.lottie-react-native.main.iml" filepath="$PROJECT_DIR$/.idea/modules/203686701/quizApp.lottie-react-native.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/203686701/quizApp.lottie-react-native.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/203686701/quizApp.lottie-react-native.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1751178041/quizApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1751178041/quizApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1751178041/quizApp.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1751178041/quizApp.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1751178041/quizApp.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1751178041/quizApp.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1784716324/quizApp.react-native-masked-view_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1784716324/quizApp.react-native-masked-view_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1784716324/quizApp.react-native-masked-view_masked-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1784716324/quizApp.react-native-masked-view_masked-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1784716324/quizApp.react-native-masked-view_masked-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1784716324/quizApp.react-native-masked-view_masked-view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-680271037/quizApp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-680271037/quizApp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-93714078/quizApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-93714078/quizApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-93714078/quizApp.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-93714078/quizApp.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-93714078/quizApp.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-93714078/quizApp.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/398285818/quizApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/398285818/quizApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/398285818/quizApp.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/398285818/quizApp.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/398285818/quizApp.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/398285818/quizApp.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1883594409/quizApp.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1883594409/quizApp.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1883594409/quizApp.react-native-svg.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1883594409/quizApp.react-native-svg.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1883594409/quizApp.react-native-svg.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1883594409/quizApp.react-native-svg.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1591584850/quizApp.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-1591584850/quizApp.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1591584850/quizApp.react-native-video.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1591584850/quizApp.react-native-video.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1591584850/quizApp.react-native-video.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1591584850/quizApp.react-native-video.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1417278900/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1417278900/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1417278900/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1417278900/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1417278900/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1417278900/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
